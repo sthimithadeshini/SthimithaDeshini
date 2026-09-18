@@ -6,9 +6,7 @@
 
 #### PROFILE
 
-I am a Bachelor of Computer Applications student with a growing foundation in software development, programming, and web technologies.
-
-My current focus is on strengthening my Java, HTML, CSS, and SQL skills, developing problem-solving abilities, and gaining practical experience through coding practice and project-based learning.
+I am a Bachelor of Computer Applications student,My current focus is on strengthening my Java, HTML, CSS, and SQL skills, developing problem-solving abilities, and gaining practical experience through coding practice and project-based learning.
 
 #### TECHNICAL FOUNDATION
 
@@ -31,7 +29,6 @@ My current focus is on strengthening my Java, HTML, CSS, and SQL skills, develop
 ##### Currently working on:
 
 - Strengthening Java programming fundamentals
-- Improving problem-solving and logical thinking
 - Developing practical HTML and CSS skills
 - Learning SQL and database fundamentals
 
@@ -70,22 +67,6 @@ The repository includes practice related to:
 ##### 🔗 Repository:
 https://github.com/sthimithadeshini/HTML-CSS-Practice
 
-#### EDUCATION
-
-##### Bachelor of Computer Applications (BCA)
-
-Vaagdegi Degree and PG College
-2024 – 2027 | CGPA: 8.83
-
-##### Intermediate
-
-Alphores Junior College
-2022 – 2024 | 9.59
-
-##### SSC
-
-Shloka High School
-2022 | 9.5
 
 #### CERTIFICATIONS & WORKSHOPS
 
