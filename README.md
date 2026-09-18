@@ -24,9 +24,7 @@ I am a Bachelor of Computer Applications student,My current focus is on strength
 - SQL 
 
 
-#### DEVELOPMENT FOCUS
-
-##### Currently working on:
+#### Currently working on:
 
 - Strengthening Java programming fundamentals
 - Developing practical HTML and CSS skills
