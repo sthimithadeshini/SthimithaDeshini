@@ -4,46 +4,40 @@
 
 ---
 
-### PROFILE
+#### PROFILE
 
 I am a Bachelor of Computer Applications student with a growing foundation in software development, programming, and web technologies.
 
 My current focus is on strengthening my Java, HTML, CSS, and SQL skills, developing problem-solving abilities, and gaining practical experience through coding practice and project-based learning.
 
-### TECHNICAL FOUNDATION
+#### TECHNICAL FOUNDATION
 
-#### Programming
+##### Programming
 
 - Java — Basic
 
-#### Web Technologies
+##### Web Technologies
 
 - HTML
 - CSS
 
-#### Database
+##### Database
 
 - SQL 
 
-#### Professional Skills
 
-- Problem Solving
-- Team Collaboration
-- Continuous Learning
+#### DEVELOPMENT FOCUS
 
-
-### DEVELOPMENT FOCUS
-
-#### Currently working on:
+##### Currently working on:
 
 - Strengthening Java programming fundamentals
 - Improving problem-solving and logical thinking
 - Developing practical HTML and CSS skills
 - Learning SQL and database fundamentals
 
-### PROJECT EXPERIENCE
+#### PROJECT EXPERIENCE
 
-#### 🌡️ Thermo Breeze
+##### 🌡️ Thermo Breeze
 
 Thermo Breeze is a temperature-based automatic fan control project developed as part of my academic project work.
 
@@ -57,7 +51,7 @@ The system is designed to adjust the fan speed according to changes in temperatu
 - Understanding how different components work together
 - Learning the knowledge and work of other team members
 
-### 🌐 HTML & CSS PRACTICE
+#### 🌐 HTML & CSS PRACTICE
 
 A structured collection of my HTML and CSS practice work created while developing my fundamentals in web development.
 
@@ -76,30 +70,30 @@ The repository includes practice related to:
 ##### 🔗 Repository:
 https://github.com/sthimithadeshini/HTML-CSS-Practice
 
-### EDUCATION
+#### EDUCATION
 
-#### Bachelor of Computer Applications (BCA)
+##### Bachelor of Computer Applications (BCA)
 
 Vaagdegi Degree and PG College
 2024 – 2027 | CGPA: 8.83
 
-#### Intermediate
+##### Intermediate
 
 Alphores Junior College
 2022 – 2024 | 9.59
 
-#### SSC
+##### SSC
 
 Shloka High School
 2022 | 9.5
 
-### CERTIFICATIONS & WORKSHOPS
+#### CERTIFICATIONS & WORKSHOPS
 
 - AI Tools Workshop
 - Python Using AI Workshop
 - Power BI Workshop
 
-### PROFESSIONAL STRENGTHS
+#### PROFESSIONAL STRENGTHS
 
 - Team Collaboration
 - Communication
@@ -107,19 +101,19 @@ Shloka High School
 - Continuous Learning
 - Adaptability
 
-### 🎯 HOBBIES & INTERESTS
+#### 🎯 HOBBIES & INTERESTS
 
 - 🤖 Learning AI Tools and Software Tools
 - 🎵 Listening to Music
 - 🎬 Watching Dramas and Movies
 
-### CONNECT WITH ME
+#### CONNECT WITH ME
 
-#### LinkedIn
+##### LinkedIn
 
 🔗 https://www.linkedin.com/in/sthimitha-deshini-482719384
 
-#### LeetCode
+##### LeetCode
 
 🔗 https://leetcode.com/u/deshini_sthimitha/
 
